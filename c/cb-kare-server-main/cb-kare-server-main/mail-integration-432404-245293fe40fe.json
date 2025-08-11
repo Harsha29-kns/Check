@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "club-466212",
+  "private_key_id": "4ba95e8886403e5b89fe5c20fa41e6c801398306",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCT/qkFN2OhoPz2\nrlcSJ/tQAzei8XiT81Fo2C4JJPxScfJ3wXrbyWEeSzXUQKxIcNA27lVmRoXAxArW\n5F53wbvycycfNwbPf961n+Mmh607I6bpdkyHY2tAkkNzUozDlt7VbU1pOhg6l6jA\nM5prH+cg0EsmCpsoqdbYBdRiASaToUTQUTEOiIFXHJzhqf+ka3bT4mlbJwQ7R/Lm\nNw0l99GvZdzydO0AG14+0OspMBIAJKpDnCKJwOwxRnRCj5rJ7kXAUkcL9X69LHjC\nAK0HC/1ztwjsrx4KMRqX27MCt9ZwSyNpU7fh7CUEhrMMhd5LoiGcnbMV5FWuPGtq\nKR9qaq8pAgMBAAECggEACOMN8h0Z8V2Y5XBqpq0H9A19aBUyR9lFMaX76206Sakf\nKkeG5kqvwJOpU9dME3RlFZUSQ8FrzHJm+xY4JgMhXGwMpxPHZ8Zvp4K0HTp77SCi\n8UMov5ZCeMorHQSRt10IgRvjK9lQp7ik1874VSectXe6S4OmY0kB5k734V9Kmk9b\nvXfgtQM7VMQnXGLVGUNxRj83rKvTX/DYD515ZJY2rrbMTrtpA6HDxloMUA7rvyi2\ng+v0tE02SMW1Rgch3y9WtxYUD8kw8RNj9f6V72JplLH4jeyoE5UI6d+u/x4Ha6/r\n62Bz/SQLzpVTbHIVXqIdgkq8ldwnrF+hW6LTylRNUQKBgQDHWr0r+poAnk3cTzNG\n8mTWl6JBCqCEVr6fGqvJx5UbtFaL/76tBNx6sRzPWs8D6KGDBVk3d09WjScWhG4a\nkLbQgAceKl1N9BqkWQ/hxTLj5ccdkf9e6BP0pZmGD8jDfqvjpPu2Dim+XOXzJ7iZ\n9YuTpZ/8bqRoGqThb8PG6tQnbwKBgQC+C/YyaAR8aP8trCe/OzpQpx+xfAxs6czx\nL7uYSHFd5fYtdhgjkgSuBN5GC21onieaP2bShamCEkMahEQAph/ql6tXL+hb+tua\neyM9gXaIWKmVfrOE+0WO/VV8PUjTpAN9LsdW/rCu0cfyS2iZmSRMerX4oY0uoSFo\nKaD4CZmG5wKBgQCkcvfGRa2wgOYdrL/R8La6Rs+z875CLQSGXwwDIb6g4fza9Bco\nxu/RzjTD4FcRFF/Xoxvbo3IxJbNu4cOp6mLEUDiO68eYPJuVo1p0laXLVYsRm5Qb\niDqd/9VLP84PZnkJCtoRblGFFUEjekrPxjxjiacWJ3c74W7OANJxTtm/xQKBgQCx\n+Me1Cp3w1+7oGYkbV17T+r3+WtnUANrwnq/B+01XDqyMhEQ0w2BoipyQ4dCyoTEb\nDPbAfXVxHqMCqQx5wxiuexx0yKODx5dxwpEM3zlelBEzs3RwO1M3hdxRPZ7+u2Cd\nEXqR6G8TN9dT+vRYqwZILL5OuRNasIB1aE6bGXpRzwKBgFSsOCe+EwGwIA3gA2vl\n4IiSPV6aqowrOQzoawqCWYPi3z8R+3uV32BZY9LPxFaBzVg0Jxal9H3CKDLSt9BX\nCFj/67w9ULbNDPm6lIgs7x7etuT2ccmnlmgG9Nky1hyFoEMbY7hP78Dt7KFP2Lgr\nlJaSvtZPdgTjYY2vC4f/KyTK\n-----END PRIVATE KEY-----\n",
+  "client_email": "scorecraft-kare@club-466212.iam.gserviceaccount.com",
+  "client_id": "105717037360997050063",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scorecraft-kare%40club-466212.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
